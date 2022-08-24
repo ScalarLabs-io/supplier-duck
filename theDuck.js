@@ -3,7 +3,7 @@ let fbombTeamMates = [
   "What's the latest, Leandro?",
   "How are things, Rainer?",
   "Talk to us, G-man!",
-  "Anything from the design team?",
+  "Anything from Elinor?",
   "Any updates from El & Adam?",
   // "Elinor",
   // "Ruslan",
