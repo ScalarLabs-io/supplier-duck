@@ -4,7 +4,7 @@ let fbombTeamMates = [
   "How are things, Rainer?",
   "Talk to us, G-man!",
   "Anything from Elinor?",
-  "Any updates from El & Adam?",
+  "Any updates from Adam?",
   // "Elinor",
   // "Ruslan",
   // "Jason",
